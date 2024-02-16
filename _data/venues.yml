@@ -1,6 +1,19 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+"EJOR":
+  url: https://www.sciencedirect.com/journal/european-journal-of-operational-research
+  color: "#678005"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"InfSci":
+  url: https://www.sciencedirect.com/journal/information-sciences
+  color: "#E87224"
+
+"JIntManuf":
+  url: https://www.springer.com/journal/10845
+  color: "#ff9900"
+
+"IEEEAccess":
+  url: https://ieeeaccess.ieee.org/
+  color: "#3399ff"
+
+"COR":
+  url: https://www.sciencedirect.com/journal/computers-and-operations-research
+  color: "#227BC0"
