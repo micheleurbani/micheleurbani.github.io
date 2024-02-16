@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://mikiurbi.github.io/al-folio/sitemap.xml
+Sitemap: https://mikiurbi.github.io/sitemap.xml
