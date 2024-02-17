@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: A growing collection papers, conference proceedings, posters, and personal projects.
+description: A growing collection of papers, conference proceedings, posters, and personal projects.
 nav: true
 nav_order: 3
 display_categories: [papers, posters]
