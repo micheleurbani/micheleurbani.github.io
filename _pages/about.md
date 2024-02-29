@@ -6,7 +6,7 @@ subtitle: Postdoctoral researcher at the <a href='https://www.dii.unitn.it/'>Uni
 
 profile:
   align: right
-  image: bryce-profile.jpg
+  image: profile-color-small.JPG
   image_circular: False # crops the image to make it circular
   address:
 
