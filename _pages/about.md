@@ -20,4 +20,4 @@ I am currently employed as researcher at the [Hydrogen technologies and Resilien
 I work on multi-objective optimization and on reduced order models of energy systems.
 
 Previously, I worked on single and multi-objective optimization of transportation problems (e.g., orienteering problems, CVRP, VRPPD, M2MVRP, etc.), and on maintenance scheduling optimization.
-During the last two years, I focused my research on learning metaheuristcs, also known as *hyper heuristics*, to embed learning mechanisms when solving combinatorial optimization problems.
+During the last two years, I focused my research on learning metaheuristics, also known as *hyper heuristics*, to embed learning mechanisms when solving combinatorial optimization problems.
