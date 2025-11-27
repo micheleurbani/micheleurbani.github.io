@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-We celebrate the addition to the [FMI Tool page](https://fmi-standard.org/tools/) of [ONNX2FMU](https://github.com/HyRES-FBK/onnx2fmu), a tool to embed ONNX models into co-simulation FMUs. You can find examples of use [here](https://github.com/HyRES-FBK/onnx2fmu/tree/master/examples).
+We are excited to announce that [ONNX2FMU](https://github.com/HyRES-FBK/onnx2fmu) is now listed on the official [FMI Tool page](https://fmi-standard.org/tools/). This tool allows you to embed ONNX models into co-simulation Functional Mock-up Units (FMUs). Check out the [usage examples](https://github.com/HyRES-FBK/onnx2fmu/tree/master/examples) to get started.
