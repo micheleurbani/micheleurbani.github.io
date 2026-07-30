@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-04-10'
+  last_updated: '2026-07-27'
 papers:
   Dlb7JYsAAAAJ:2osOgNQ5qMEC:
-    citations: 19
+    citations: 23
     title: An approach for bi-objective maintenance scheduling on a networked system with limited resources
     year: '2023'
   Dlb7JYsAAAAJ:9yKSN-GCB0IC:
-    citations: 1
+    citations: 2
     title: Maintenance policies optimization in the Industry 4.0 paradigm
     year: '2021'
   Dlb7JYsAAAAJ:IjCSPb-OGe4C:
@@ -14,11 +14,11 @@ papers:
     title: A multi-policy sequence-based selection hyper-heuristic for multi-objective optimization
     year: '2023'
   Dlb7JYsAAAAJ:Tyk-4Ss8FVUC:
-    citations: 8
+    citations: 9
     title: 'Designing food hubs for territories of proximity: Assessing the spatial, ecological, and cultural potentials of places through multi-criteria decision support systems'
     year: '2024'
   Dlb7JYsAAAAJ:UeHWp8X0CEIC:
-    citations: 30
+    citations: 34
     title: "A numerical comparative study of uncertainty measures in the Dempster\u2013Shafer evidence theory"
     year: '2023'
   Dlb7JYsAAAAJ:W7OEmFMy1HYC:
@@ -34,7 +34,7 @@ papers:
     title: Towards a Framework for Self-Evolving Products in Additive Manufacturing
     year: '2025'
   Dlb7JYsAAAAJ:YsMSGLbcyi4C:
-    citations: 0
+    citations: 1
     title: 'A Multi-Objective Optimization of a District Heating Network: Integrated and Dynamic Decarbonization Solutions for the Case Study of Riva Del Garda (Italy)'
     year: '2025'
   Dlb7JYsAAAAJ:d1gkVwhDpl0C:
@@ -46,7 +46,7 @@ papers:
     title: Maintenance optimization for a multi-unit system with digital twin simulation
     year: '2021'
   Dlb7JYsAAAAJ:qjMakFHDy7sC:
-    citations: 79
+    citations: 86
     title: 'Maintenance optimization for a multi-unit system with digital twin simulation: Example from the mining industry'
     year: '2021'
   Dlb7JYsAAAAJ:u-x6o8ySG0sC:
@@ -54,10 +54,10 @@ papers:
     title: Additive Manufacturing Cases and a Vision for a Predictive Analytics and Additive Manufacturing Based Maintenance Business Model
     year: '2020'
   Dlb7JYsAAAAJ:u5HHmVD_uO8C:
-    citations: 18
+    citations: 20
     title: Maintenance-management in light of manufacturing 4.0
     year: '2020'
   Dlb7JYsAAAAJ:zYLM7Y9cAGgC:
-    citations: 5
+    citations: 6
     title: A cooperative team orienteering optimisation model and a customised resolution metaheuristic
     year: '2024'
