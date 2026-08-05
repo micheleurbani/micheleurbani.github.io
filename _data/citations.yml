@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-07-27'
+  last_updated: '2026-08-05'
 papers:
   Dlb7JYsAAAAJ:2osOgNQ5qMEC:
     citations: 23
     title: An approach for bi-objective maintenance scheduling on a networked system with limited resources
     year: '2023'
   Dlb7JYsAAAAJ:9yKSN-GCB0IC:
-    citations: 2
+    citations: 1
     title: Maintenance policies optimization in the Industry 4.0 paradigm
     year: '2021'
   Dlb7JYsAAAAJ:IjCSPb-OGe4C:
@@ -38,7 +38,7 @@ papers:
     title: 'A Multi-Objective Optimization of a District Heating Network: Integrated and Dynamic Decarbonization Solutions for the Case Study of Riva Del Garda (Italy)'
     year: '2025'
   Dlb7JYsAAAAJ:d1gkVwhDpl0C:
-    citations: 12
+    citations: 11
     title: A comparison of maintenance policies for multi-component systems through discrete event simulation of faults
     year: '2020'
   Dlb7JYsAAAAJ:eQOLeE2rZwMC:
@@ -46,7 +46,7 @@ papers:
     title: Maintenance optimization for a multi-unit system with digital twin simulation
     year: '2021'
   Dlb7JYsAAAAJ:qjMakFHDy7sC:
-    citations: 86
+    citations: 82
     title: 'Maintenance optimization for a multi-unit system with digital twin simulation: Example from the mining industry'
     year: '2021'
   Dlb7JYsAAAAJ:u-x6o8ySG0sC:
