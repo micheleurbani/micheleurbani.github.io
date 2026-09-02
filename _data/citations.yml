@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-05'
+  last_updated: '2026-09-02'
 papers:
   Dlb7JYsAAAAJ:2osOgNQ5qMEC:
     citations: 23
@@ -18,15 +18,15 @@ papers:
     title: 'Designing food hubs for territories of proximity: Assessing the spatial, ecological, and cultural potentials of places through multi-criteria decision support systems'
     year: '2024'
   Dlb7JYsAAAAJ:UeHWp8X0CEIC:
-    citations: 34
+    citations: 35
     title: "A numerical comparative study of uncertainty measures in the Dempster\u2013Shafer evidence theory"
     year: '2023'
   Dlb7JYsAAAAJ:W7OEmFMy1HYC:
-    citations: 0
+    citations: 1
     title: A Tool for the Implementation of Open Neural Network Exchange Models in Functional Mockup Units
     year: '2025'
   Dlb7JYsAAAAJ:WF5omc3nYNoC:
-    citations: 1
+    citations: 2
     title: 'A multi-objective optimization approach in defining the decarbonization strategy of a district heating network: A case study of Oslo'
     year: '2026'
   Dlb7JYsAAAAJ:Y0pCki6q_DkC:
@@ -38,7 +38,7 @@ papers:
     title: 'A Multi-Objective Optimization of a District Heating Network: Integrated and Dynamic Decarbonization Solutions for the Case Study of Riva Del Garda (Italy)'
     year: '2025'
   Dlb7JYsAAAAJ:d1gkVwhDpl0C:
-    citations: 11
+    citations: 13
     title: A comparison of maintenance policies for multi-component systems through discrete event simulation of faults
     year: '2020'
   Dlb7JYsAAAAJ:eQOLeE2rZwMC:
@@ -46,7 +46,7 @@ papers:
     title: Maintenance optimization for a multi-unit system with digital twin simulation
     year: '2021'
   Dlb7JYsAAAAJ:qjMakFHDy7sC:
-    citations: 82
+    citations: 88
     title: 'Maintenance optimization for a multi-unit system with digital twin simulation: Example from the mining industry'
     year: '2021'
   Dlb7JYsAAAAJ:u-x6o8ySG0sC:
